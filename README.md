@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Rao</h1>
-<h3 align="center">I like to learn and share what I learn.</h3>
+<h3 align="center">Love to explore, learn and share what I learn</h3>
 
 - 🔭 I’m currently working on [CSS](https://github.com/Prem-rao/Learning_CSS.git)
 
